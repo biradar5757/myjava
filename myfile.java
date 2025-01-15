@@ -1,4 +1,4 @@
-class myfile
+class myfilejavay
 {
     public static void main(String[] args)
     {
