@@ -2,6 +2,6 @@ class myfilejavay
 {
     public static void main(String[] args)
     {
-        System.out.println("welcome to jenkins server");
+        System.out.println("Welcome to jenkins server");
     }
 }
